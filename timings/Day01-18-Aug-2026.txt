@@ -1,0 +1,20 @@
+## Today's Task
+1-hr  -	Git Revision
+1-hr - Linux commands practice
+2-hr - Watched Github to EC2 in 20min video
+2-hr - hands-on on ec2 and vpc(route table, internet gateway, subnet, vpc peering)
+3-hr - Helm
+1-hr - practical with bastion host (jump server) using same vpc's and diff vpc's
+
+
+
+
+## Tommorrow's Task
+2-hr - kubernetes
+2-hr - Interview Questions
+1-hr - Docker Revision
+2-hr - Terraform
+2-hr - AWS
+1-hr - recap of today's Concept 
+
+
