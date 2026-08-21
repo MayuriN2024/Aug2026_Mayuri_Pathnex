@@ -1,0 +1,18 @@
+## Today's Task
+
+1 -   hr - Linux
+2.5 - hr - ArgoCD
+2 -   hr - Kubernetes
+2 -   hr - AWS
+2 -   hr - Revision(Interview Questions)
+
+
+
+## Tommorrow's Task
+
+2 - hr - revision(Docker )
+2 - hr - AWS Security
+1 - hr - linux and git (revision)
+3 - hr - Tommorrow's Topic
+3 - hr - Helm and ArgoCD
+1 - hr - networking( basic concepts)
