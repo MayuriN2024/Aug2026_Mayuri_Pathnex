@@ -1,0 +1,14 @@
+######### Todya's Task ############
+
+3 - hr : Ansible
+2 - hr : docker
+2 - hr : interview question
+2 - hr : AWS
+
+
+########### Tommorrow's Task #######
+2 - hr : Scripting
+1- hr : revision
+. - : tommorrow's topic 
+3 - hr : Docker and kubernetes
+2 - hr : terraform ( revision)
