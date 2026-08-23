@@ -1,0 +1,20 @@
+######### Day_03 Task #########
+
+# Today's Task
+
+3 - hr - Terraform
+3 - hr - hands-on (kubernetes)
+2 - 2 - hr - revision(Docker )
+2 - hr - AWS Security
+1 - hr - linux and git (revision)
+3 - hr - Helm and ArgoCD
+1 - hr - networking( basic concepts)
+
+
+# Tommorrow's Task
+1- hr : Revision
+1- hr : scripting
+2- hr : AWS(Database)
+3- hr : Terraform
+2- hr : Interview qeustions from pdf
+.- hr : Tommorrow's Topic

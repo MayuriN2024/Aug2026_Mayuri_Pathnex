@@ -1,0 +1,25 @@
+########### Day_04 ###############
+
+# Today's Task
+
+2-hr  : Terraform
+1- hr : Revision
+1- hr : scripting
+2- hr : AWS(Database)
+2- hr : Interview qeustions from pdf
+1 -hr : Docker 
+
+
+
+
+
+
+# Tommorrow's Task
+
+. - hr : tommorrow's topic
+2 - hr : interview qeustions
+1 - hr : revision
+2 - hr : kubernetes
+2 - hr : AWS and docker 
+1 - hr : terraform 
+
