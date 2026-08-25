@@ -1,0 +1,18 @@
+## Today's task ######
+
+3 - hr : CICD
+2 - hr : kubernets + terraform 
+3 - hr : AWS(security and database)
+1 - hr : scripting
+2 - hr : interview questions 
+
+
+
+## Tommorrow's task #######
+
+. hr : tommorro's topic
+2 - hr : revision
+3 - hr : hands-on
+2 - hr : helm + argocd 
+1 - hr : docker revision
+
