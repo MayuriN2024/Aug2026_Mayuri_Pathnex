@@ -1,0 +1,17 @@
+#### Today's Task ####
+
+3 - hr : helm + ArgoCD
+2 - hr : revision
+2 - hr : interview questions revision
+3 - hr : hands on on AWS ( ec2, vpc, IG, nat-gateway, route-table)
+
+
+######Tommorrows' task ########
+
+2 - hr : git + linux revision
+1 - hr : scripting
+2 - hr : handson on terraform
+2 - hr : docker + kubernetes (interview questions)
+. - hr : tommorrow's topic
+2 - hr : revision
+
