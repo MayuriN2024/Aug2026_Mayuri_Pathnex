@@ -1,0 +1,16 @@
+#### Today's task ########
+
+3 - hr : Monitoring
+2 - hr : revision
+2 - hr : docker + kubernetes
+1 - hr : scripting
+2 - hr : helm + arogcd
+
+
+
+####### Tommorrow's Task #######
+. hr : tommorrow's topic
+1 - hr : revision 
+2 - hr : linux commands
+3 - hr : hands-on
+2 - hr : interview questions practise
