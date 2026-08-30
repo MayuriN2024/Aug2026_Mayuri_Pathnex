@@ -1,0 +1,17 @@
+## Today's task ###########
+
+3 - hr : ELK
+2 - hr : revision
+1 - hr : scripting 
+2 - hr : hands-on
+2 - hr : AWS
+
+
+
+#### Tommorro's task #########
+
+- hr : tommorro's topic
+2 - hr : revision
+2 - hr : argocd and helm practice
+2 - hr : cicd practice
+2 - hr : interview question revision
