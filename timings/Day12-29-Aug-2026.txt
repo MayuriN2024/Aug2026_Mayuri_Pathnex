@@ -1,0 +1,17 @@
+## Today's task #########
+
+1 - hr : revision
+2 - hr : hands-on
+2 - hr : aws + linux
+3 - hr : kafka and cicd
+1 - hr : interviw questions
+
+
+
+## Tommorrow's task ######
+
+. - hr : revision
+2 - hr : hands -on 
+2 - hr : elk revision
+3 - hr : aws + kubernets + cicd 
+2 - hr : interview qeustions
