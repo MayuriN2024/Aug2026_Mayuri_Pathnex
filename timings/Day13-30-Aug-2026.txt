@@ -1,0 +1,16 @@
+## Today's Task ########
+
+2 - hr : revision
+3 - hr : hands-on 
+1 - hr ; aws
+1 - hr : interviw questions
+2 - hr ; elk + kafka revision
+
+
+## Tommorrow's Task ########
+
+-. Tommorrow's topic
+2 - hr : hands-on
+3 - hr : revision
+2 - hr : interview questions
+2 - hr : previous topic revision 

@@ -1,0 +1,16 @@
+## Today's Task #####
+
+3 - hr : kafka
+2 - hr : revision
+2 - hr : argocd and helm practice
+2 - hr : cicd practice
+2 - hr : interview question revision
+
+
+
+## Tommorrow's Task #####
+
+. - hr : tommorrow's topic
+2 - hr : revision
+2 - hr : interview question revision
+2 - hr : hands-on

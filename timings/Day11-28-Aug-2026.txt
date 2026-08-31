@@ -1,0 +1,19 @@
+## Today's Task ######
+
+2 - hr : revision
+3 - hr : interview questions
+2 - hr : Helm + argocd + kafka
+2 - hr : hands on
+
+
+
+## Tommorrow's Task ########
+
+. - hr : tommorrow's task
+2 - hr : revision
+2 - hr : kafka
+1 - hr : aws
+30 - mins : scripting 
+1 - hr : interview questions
+
+
