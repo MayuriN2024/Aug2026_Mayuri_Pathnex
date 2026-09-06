@@ -1,0 +1,15 @@
+
+## Today's Task ##
+
+2 - hr : revision
+3 - hr : hands-on
+3 - hr : kubernetes + docker + devsecOps
+3 - hr : discussion class
+
+
+## Tommorrow's Task ##
+
+3 - hr : discussion session
+3 - hr : hands-on
+2 - hr : revision
+3 - hr : aws + cicd + monitoring
