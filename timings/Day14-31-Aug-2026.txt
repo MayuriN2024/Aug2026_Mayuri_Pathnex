@@ -1,0 +1,16 @@
+
+## Today's task ##
+
+2 - hr ; revision
+3 - hr : interview questions
+2 - hr : argocd + helm
+3 - hr : kubernets + dockerfile
+
+
+
+
+## tommorrow's task ## 
+3 - hr : revision
+2 - hr : yaml and hcl practise
+3 - hr ; interview questions
+3 - hr : aws + elk
