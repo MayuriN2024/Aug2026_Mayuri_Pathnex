@@ -1,0 +1,13 @@
+## Today's Task ##
+
+3 - hr : discussion session
+2 - hr : revision
+3 - hr : hands on
+2 - hr : elk 
+
+
+## Tommorrow's Task ##
+3 - hr : discussion session
+2 - hr : revision
+2 - hr : kafka
+3 - hr : datadog + sre
