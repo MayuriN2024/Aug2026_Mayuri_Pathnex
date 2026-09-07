@@ -1,0 +1,14 @@
+## Todya's Task ##
+
+3 - hr : discussion session
+2 - hr : elk + ssl /tls
+1 - hr :terraform
+1 - hr : ansible + scripting
+1 - hr : code practise
+
+
+## Tommorrow's task ##
+3 - hr : revision
+3 - hr : discussion session
+2 - hr : hands-on
+3 - hr : aws + linux + docker + kubernets

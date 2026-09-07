@@ -1,0 +1,15 @@
+## Today's Task #
+
+2 - hr : revision class
+3 - hr : hands-on
+3 - hr : aws + kubernetes + scripting
+3 - hr : monitoring + ssl / TLS
+3 - hr : discussion session
+
+
+## Tommorro's task ##
+
+3 - hr : discussion session
+2 - hr : revision class
+2 - hr : elk 
+2 - hr : code practise
